@@ -1,4 +1,4 @@
-# pokedex_list
+# pokedex_list - GUIA 
 
 ##Utilizando npm
 ###Para rodar o ambiente de desenvolvimento utilizando o npm, basta clonar para a sua maquina e executar os comandos abaixo na raiz do projeto.
