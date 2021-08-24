@@ -1,0 +1,34 @@
+.Title {
+  text-align: center;
+  color: red;
+}
+
+  /*cards*/
+.cards{
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 7px;
+  margin: 10px 10px 0px 0;
+  width: 20%;
+  cursor: pointer;
+}
+
+.cards p {
+  text-align: center;
+}
+
+.cards img{
+  width: 250px;
+}
+
+.display{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/*Final cards*/
+
